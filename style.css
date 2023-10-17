@@ -10,7 +10,7 @@
 }
 
 #onpage{
-
+ text-decoration: underline overline; 
 }
 
 #main-navbar ul{
@@ -40,6 +40,7 @@
   background-color: #000;
 }
 
+
 #sidebar{
   position: fixed;
   right: 0%;
@@ -50,10 +51,6 @@
 
 #sidebar-container{
   
-}
-
-#onpage{
-
 }
 
 #sidebar ul{
