@@ -4,6 +4,15 @@
   float: left;
 }
 
+#navbar-container{
+  width: 100%
+  position: relative;
+}
+
+#onpage{
+
+}
+
 #main-navbar ul{
   list-style-type: none;
   margin: 0;
@@ -29,4 +38,8 @@
   width: 20%;
   height: 100%
   padding: 15px 0;
+}
+
+#sidebar-container{
+
 }
