@@ -9,3 +9,7 @@
   padding: 10px 20px;
   text-decoration: none;
 }
+
+#main-navbar ul li a:hover{
+  background-color: #800;
+}
